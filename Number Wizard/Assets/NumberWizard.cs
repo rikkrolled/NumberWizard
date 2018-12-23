@@ -22,6 +22,7 @@ public class NumberWizard : MonoBehaviour
         maximumGuess = 1000;
         minimumGuess = 1;
         guess = 500;
+        Debug.Log("I AM MADE IN MAC!");
         Debug.Log("YOOHOO! WELCOME TO NUMBER GUESSING GAME!");
         Debug.Log("Pick a number.");
         Debug.Log("Higher number is: " + maximumGuess);
